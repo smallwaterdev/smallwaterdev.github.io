@@ -26,7 +26,8 @@ github_username:  nan0416
 markdown: kramdown
 plugins:
   - jekyll-feed
-
+theme: just-the-docs
+search_enabled: true
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
