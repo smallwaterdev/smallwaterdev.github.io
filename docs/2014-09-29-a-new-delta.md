@@ -1,6 +1,7 @@
 ---
 layout: post
-title: A New Delta
+title: "A New Delta"
+nav_order: 3
 ---
 
 Part of providing a complete API in Quill is providing events for when and what changes occur in the editor. Those changes are currently represented by a [Delta](/guides/working-with-deltas/) object, which aims to be intuitive, human-readable, and expressive for any change or document that might need to represented. Over the past few weeks I’ve been working on a new format that better fulfills those goals and addresses the challenges in the current format.
